@@ -1,0 +1,35 @@
+p {background-color: #0003ff;}
+
+a {background-color: #0200ff;}
+
+header {
+  h1 {
+    background-color: #0000ff;
+  }
+  nav{
+    ul {
+      background-color: #0000ff;
+    }
+  }
+}
+
+article {
+  header {
+       h1 {
+         background-color: #0000ff;
+       }
+       p {
+        background-color: #0000ff;
+       }
+       details {
+         summary {
+           background-color: #0000ff;
+         }
+       }
+  } 
+}
+
+footer {
+  p {background-color: #0000ff;}
+}
+

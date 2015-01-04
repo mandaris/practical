@@ -1,0 +1,22 @@
+p {
+  background-color: #0003ff; }
+
+a {
+  background-color: #0200ff; }
+
+header h1 {
+  background-color: #0000ff; }
+header nav ul {
+  background-color: #0000ff; }
+
+article header h1 {
+  background-color: #0000ff; }
+article header p {
+  background-color: #0000ff; }
+article header details summary {
+  background-color: #0000ff; }
+
+footer p {
+  background-color: #0000ff; }
+
+/*# sourceMappingURL=main_screen.css.map */
